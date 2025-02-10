@@ -1,5 +1,10 @@
+# Hi there, I'm Vivek! <br>
 # 💫 About Me:
-I'm looking for collaborate on MERN Stack Project<br>I'm currently learning DSA
+🎓 I’m a 2nd-year Computer Science student at NSUT with a passion for building scalable and efficient web applications.<br>
+💻 I have 6 months of hands-on experience in Full Stack Development using the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>
+🔍 Currently, I’m diving deep into Data Structures & Algorithms (DSA) using C++ to strengthen my problem-solving skills.<br>
+🤝 I’m open to collaborations on Full Stack Development projects and excited to work with like-minded developers!<br>
+🚀 Constantly learning and exploring new technologies to level up my skills.<br>
 
 
 ## 🌐 Socials:
